@@ -1,0 +1,65 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "color_scheme": "",
+        "show_title": true,
+        "page_width": "xs"
+      }
+    },
+    "rich_text_ihqLjQ": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_pmQJjC": {
+          "type": "subheading",
+          "settings": {
+            "text": "For any questions or concerns you can reach us at:"
+          }
+        },
+        "richtext_Y9V8CY": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><strong>Email</strong>: support@athloun.com<br/><br/><strong>Address</strong>: G R Sunvillas no. 95, Niembaikepura Road, Budigere Cross, Bangalore, KA – 560049, India</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_pmQJjC",
+        "richtext_Y9V8CY"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "content_width": "sm",
+        "text_position": "start",
+        "remove_vertical_spacing": false
+      }
+    },
+    "contact-form": {
+      "type": "contact",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "subheading": "",
+        "title": "",
+        "content": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_ihqLjQ",
+    "contact-form"
+  ]
+}
